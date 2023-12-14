@@ -1,5 +1,4 @@
 <script>
-	import MainImage from '$lib/components/MainImage.svelte';
 </script>
 
 <svelte:head>
@@ -7,7 +6,7 @@
 	<meta name="description" content="The Build The Earth USA official website." />
 </svelte:head>
 
-<!-- <MainImage overlapImage="Montgomery.jpg" /> -->
+<section />
 
 <style>
 </style>
